@@ -8,18 +8,17 @@ This repo includes a common folder (representative of the UI component library) 
 
 ## Three files to look at
 
-#### 1. The [main wrapper component](https://nodejs.org/) from the project's component library (Storybook)
+#### 1. The [main wrapper component](https://github.com/ashlynnr/code-sample-2023/blob/main/common/AuthorizationModal/AuthorizationModal.tsx) from the project's component library (Storybook)
 
 - This is the base component of the Authorization Modal.
-- It consists of the base styles that all auth modals the project will eventually use, and accepts properties for the header/content so that it can be customized.
+- It consists of the base styles for all auth modals in every project, and accepts properties for layout elements to allow customization.
 
-#### 2. The [common phone authorization modal](https://nodejs.org/) from the main project
+#### 2. The [common phone authorization modal](https://github.com/ashlynnr/code-sample-2023/blob/main/components/MFAForms/PhoneAuthorizationForm.tsx) from the main project
 
 - This is one use case for the main wrapper component above.
 - It includes project specific UI elements and styles, including the logo, input, and specific text.
--
 
-#### 3. The [phone authorization form](https://nodejs.org/) from the main project
+#### 3. The [phone authorization form](https://github.com/ashlynnr/code-sample-2023/blob/main/components/Modal/AuthorizationModal/PhoneAuthorizationModal/PhoneAuthorizationModal.tsx) from the main project
 
 - This is where the actual logic happens (API calls, alterting data, etc.)
 - This component uses the common phone modal above
@@ -27,6 +26,6 @@ This repo includes a common folder (representative of the UI component library) 
 
 ## Images
 
-![Phone Modal](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![Recovery Code Modal](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![Challenge Modal](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Phone Modal](https://github.com/ashlynnr/code-sample-2023/blob/main/images/PhoneModal.png | width=200)
+![Recovery Code Modal](https://github.com/ashlynnr/code-sample-2023/blob/main/images/RecoveryCodeModal.png | width=200)
+![Challenge Modal](https://github.com/ashlynnr/code-sample-2023/blob/main/images/ChallengeModal.png | width=200)
