@@ -26,14 +26,14 @@ This repo includes a common folder (representative of the UI component library) 
 
 ## Images
 
-Phone Modal
+#### Phone Modal
 
-- <img src="https://github.com/ashlynnr/code-sample-2023/blob/main/images/PhoneModal.png" alt="" width="300" />
+> <img src="https://github.com/ashlynnr/code-sample-2023/blob/main/images/PhoneModal.png" alt="" width="300" />
 
-Recovery Code Modal
+#### Recovery Code Modal
 
-- <img src="https://github.com/ashlynnr/code-sample-2023/blob/main/images/RecoveryCodeModal.png" alt="" width="300" />
+> <img src="https://github.com/ashlynnr/code-sample-2023/blob/main/images/RecoveryCodeModal.png" alt="" width="300" />
 
-Challenge Modal
+#### Challenge Modal
 
-- <img src="https://github.com/ashlynnr/code-sample-2023/blob/main/images/ChallengeModal.png" alt="" width="300" />
+> <img src="https://github.com/ashlynnr/code-sample-2023/blob/main/images/ChallengeModal.png" alt="" width="300" />
