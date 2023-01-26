@@ -1,0 +1,1 @@
+export { PhoneAuthorizationModal } from './PhoneAuthorizationModal';
